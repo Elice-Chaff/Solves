@@ -1,5 +1,5 @@
 //  프로그래머스 level 0 외계어 사전
-//  https://school.programmers.co.kr/learn/courses/30/lessons/42748
+//  https://school.programmers.co.kr/learn/courses/30/lessons/120869?language=javascript
 
 function solution(spell, dic) {
   let answer = 0;
