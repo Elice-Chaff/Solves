@@ -10,5 +10,5 @@ function solution(s) {
     // console.log(num, i , cur )
     return num < 0 ? num : i - num;
   });
-  return result;
+  return resul
 }
